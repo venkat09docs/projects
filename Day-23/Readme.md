@@ -9,3 +9,5 @@ Clone the Repo
 - Open the Project folder
 - Install the Extensions
 - How to run the code
+
+- Staging then committing and then push to the remote repo
