@@ -1,0 +1,1 @@
+      Hi there! I'm Venkat, an entry-level IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.  
